@@ -1,0 +1,33 @@
+mkdir olivia
+cd olivia
+mkdir sekolah 
+mkdir kerja 
+cd sekolah 
+touch ijazah.txt
+nano ijazah.txt
+perkenalkan namaku olivia 
+aku berasal dari madiun
+salam kenal :D
+ctrl+X - Y - enter
+cat ijazah.txt
+touch portofolio.txt
+nano potrofolio.txt
+saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah 
+-mcd
+-star vision
+-i box
+ctrl+X - Y - enter
+cd ..
+cd kerja
+touch cv.txt
+nano cv.txt
+salam,
+perkenalkan namaku olivia,saya memiliki kegemaran 
+-badminton
+-berenang
+-traveling
+ctrl+X - Y - enter
+cat cv.txt
+cd ..
+cd sekolah 
+mv portofolio.txt ../kerja
